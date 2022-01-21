@@ -1,1 +1,4 @@
-alert("bienvenido")
+
+const saludo =()=>{
+    alert("bienvenido");
+}
